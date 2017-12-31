@@ -10,10 +10,14 @@ categories: blog update
   <ul>
     <li>Got married</li>
     <li>Released 3 games while working at <a href = "https://twitter.com/blackrvrstudios">Black River Studios</a></li>
-    <li>Wrote another technical <a href ="https://www.gamasutra.com/blogs/VictorHasselmann/20171030/308463/How_we_manage_scenes_and_takes_on_Angest_for_GearVR.php"> article</a> that got featured at GamaSutra</li>
-    <li>Made a lot of awesome friends</li>
-    <li>Moved to Europe; I'm living in Dublin now :D</li>
+    <li>Wrote a technical <a href ="https://www.gamasutra.com/blogs/VictorHasselmann/20171030/308463/How_we_manage_scenes_and_takes_on_Angest_for_GearVR.php">article</a>
+        about one of the system that were build for the project that I was leading the engineering team.</li>
+    <li>Moved to Europe; I'm living in Dublin now, that's cool</li>
     <li>Started out with shader programming</li>
+    <li>I bought a Hurdy Gurdy and started playing it!</li>
   </ul>
+  <br>
+  <p>It was one of the most interesting years so far and I expect that 2018 will be greater than this one. I would like to thanks everyone that helped to make this a great year.
+  </p>
 </article>
 </div>
