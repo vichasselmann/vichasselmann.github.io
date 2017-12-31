@@ -4,22 +4,19 @@ title:  "Bye 2017; Hello 2018!"
 date:   2017-12-31 13:55:15 +0000
 categories: blog update
 ---
-[Black River Studios](https://twitter.com/blackrvrstudios)
 
-<div class = "container">
-<article>
-  <p>So, 2017 has come to an end and with cool accomplishments. This year I have:</p>
-  <ul>
-    <li>Got married</li>
-    <li>Released 3 games while working at [Black River Studios](https://twitter.com/blackrvrstudios) <a href = "https://twitter.com/blackrvrstudios" target = "_blank">Black River Studios</a></li>
-    <li>Wrote a technical <a href ="https://www.gamasutra.com/blogs/VictorHasselmann/20171030/308463/How_we_manage_scenes_and_takes_on_Angest_for_GearVR.php" target = "_blank">article</a>
-        about one of the system that were build for the project that I was leading the engineering team.</li>
-    <li>Moved to Europe; I'm living in Dublin now, that's cool</li>
-    <li>Started out with shader programming</li>
-    <li>I bought a Hurdy Gurdy and started playing it!</li>
-  </ul>
-  <br>
-  <p>It was one of the most interesting years so far and I expect that 2018 will be greater than this one. I would like to thanks everyone that helped to make this a great year.
-  </p>
-</article>
-</div>
+So, 2017 has come to an end and with cool accomplishments. This year I have:
+
+Got married
+
+Released 3 games while working at [Black River Studios](https://twitter.com/blackrvrstudios)
+
+Wrote a technical [article](https://www.gamasutra.com/blogs/VictorHasselmann/20171030/308463/How_we_manage_scenes_and_takes_on_Angest_for_GearVR.php) about one of the system built for the [project](https://www.oculus.com/experiences/gear-vr/1199148026798440/) that I was leading the engineering team.
+
+Moved to Europe;
+
+Started out with shader programming
+
+Bought a Hurdy Gurdy and started out playing it
+
+It was one of the most interesting years so far and I expect that 2018 will be a better one. I would like to thanks everyone that helped make this a great year.
