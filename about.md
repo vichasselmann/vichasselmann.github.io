@@ -15,8 +15,8 @@ As I am very communicative, my goal is to make everyone in the project feel that
 # Unity Certified Developer
 
 May 2017 – May 2019   
-License 201705UCD2037 
+License 201705UCD2037
 
 # Specialities
-## Key Technologies
+
 C#, Unity3D, Gear VR, FMOD, Version Control, Mobile
