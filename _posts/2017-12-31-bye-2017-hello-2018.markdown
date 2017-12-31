@@ -10,7 +10,7 @@ categories: blog update
   <ul>
     <li>Got married</li>
     <li>Released 3 VR Games while working at [Black River Studios]({{ site.baseurl }}{% link https://twitter.com/blackrvrstudios %}) </li>
-    <li>Released 3 VR games while working <a href = "https://twitter.com/blackrvrstudios" target = "_blank">Black River Studios</a></li>
+    <li>Released 3 VR games while working <a href = "https://twitter.com/blackrvrstudios">Black River Studios</a></li>
   </ul>
 </article>
 </div>
