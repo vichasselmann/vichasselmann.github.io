@@ -9,7 +9,7 @@ categories: blog update
   <p>So, 2017 has come to an end and with cool accomplishments. This year I have:</p>
   <ul>
     <li>Got married</li>
-    <li>Released 3 games while working at <a href = "https://twitter.com/blackrvrstudios" target = "_blank">Black River Studios</a></li>
+    <li>Released 3 games while working at [Black River Studios](https://twitter.com/blackrvrstudios) <a href = "https://twitter.com/blackrvrstudios" target = "_blank">Black River Studios</a></li>
     <li>Wrote a technical <a href ="https://www.gamasutra.com/blogs/VictorHasselmann/20171030/308463/How_we_manage_scenes_and_takes_on_Angest_for_GearVR.php" target = "_blank">article</a>
         about one of the system that were build for the project that I was leading the engineering team.</li>
     <li>Moved to Europe; I'm living in Dublin now, that's cool</li>
