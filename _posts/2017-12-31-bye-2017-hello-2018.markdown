@@ -5,5 +5,10 @@ date:   2017-12-31 13:55:15 +0000
 categories: blog update
 ---
 <div class = "container">
-  <h3>So, 2017 has come to an end and with cool accomplishments. This year I have</h3>
+<article>
+  <p>So, 2017 has come to an end and with cool accomplishments. This year I have:</p>
+  <ul>
+    <li>Got married.</li>
+  </ul>
+</article>
 </div>
