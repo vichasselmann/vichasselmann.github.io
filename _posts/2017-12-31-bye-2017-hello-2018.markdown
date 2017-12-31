@@ -8,7 +8,8 @@ categories: blog update
 <article>
   <p>So, 2017 has come to an end and with cool accomplishments. This year I have:</p>
   <ul>
-    <li>Got married.</li>
+    <li>Got married</li>
+    <li>Released 3 VR games while working <a href = "https://twitter.com/blackrvrstudios">Black River Studios</a></li>
   </ul>
 </article>
 </div>
