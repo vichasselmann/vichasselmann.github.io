@@ -19,4 +19,25 @@ License 201705UCD2037
 
 # Specialities
 
-C#, Unity3D, Gear VR, FMOD, Version Control, Mobile
+C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Gear VR, Mobile, Version Control
+
+## Professional Experience
+
+# Black River Studios
+
+*Software Engineer*
+Responsible for game development and team management at Samsung's exclusive games studio. I left due a job offer in Dublin.
+
+On this position I interface with the leaders and directors from other areas, managing expectations, setting estimatives, providing feedback on technical possibility of implementing features and tackling the technical challenges the game being developed brings to the team.
+
+Developed for the following technologies: Samsung's Gear VR with Unity3D
+Worked as Audio Programmer, doing the interface between Audio Director and Engineering Team.
+Worked on plugins, and framework used by all Black River Studios teams.
+
+> Technical Environment: Unity3D, C#, Git & Perforce, Visual Studio and FMOD.
+
+# Pipa Studios
+# Hive Digital Media
+# 2Mundos
+# Webcore Games
+# PixFly
