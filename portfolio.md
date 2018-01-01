@@ -6,8 +6,8 @@ permalink: /portfolio/
 
 Here are the last projects that I've worked on
 
-# Black River Studios
-## Games
+## Black River Studios
+# Games
 
 - Conflict 0 : Revolution - [Trailer](https://www.youtube.com/watch?v=3n5Uk2klJro)
 - Angest VR - [Trailer](https://www.youtube.com/watch?v=Nc43GDjedJA)
