@@ -1,0 +1,179 @@
+---
+---
+
+@import "minima";
+
+/** Variables **********************************************/
+$base-font-family:              Helvetica, sans-serif;
+$base-line-height:              1.5em;
+$horizontal-spacing-unit:       50px;
+$vertical-spacing-unit:         40px;
+$nav-height:                    56px;
+
+/* portfolio tinkering */
+$img_spacing: 5px;
+$img_height: 275px;
+$caption_font_size: 12px;
+$caption_color: #aaa;
+
+/* COLORS  */
+$red:  #FF3636;
+$orange: #F29105;
+$blue: #2698BA;
+$green: #11D68B;
+$lime_green: #B7D12A;
+$purple: #B509AC;
+
+
+$grey-color-dark: #333;   /* footer */
+$grey-color-light: #ddd;  /* navigation bar border */
+$text-color:     #666;
+
+/* Set theme color *************************/
+$theme-color:   $orange;
+
+$on-laptop:        800px;
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 100;
+}
+
+.post-header {
+margin-bottom: $vertical-spacing-unit;
+}
+.post-title {
+font-size: 42px;
+letter-spacing: -1px;
+line-height: 1;
+@include media-query($on-laptop) {
+font-size: 36px;
+    }
+}
+.post-content {
+  width: 900px;
+h2 {
+font-size: 42px;
+@include media-query($on-laptop) {
+font-size: 28px;
+        }
+    }
+h3 {
+font-size: 30px;
+@include media-query($on-laptop) {
+font-size: 22px;
+        }
+    }
+h4 {
+font-size: 20px;
+@include media-query($on-laptop) {
+font-size: 18px;
+        }
+    }
+}
+.post-meta {
+font-size: $small-font-size;
+color: $grey-color;
+margin-bottom: 0px;
+}
+.post-link {
+display: block;
+font-size: 42px;
+}
+
+.clearfix:before,
+.clearfix:after {
+content: " ";
+display: table;
+}
+.clearfix:after {
+clear: both;
+}
+.project {
+width: 250px;
+height: 250px;
+float: left;
+vertical-align: middle;
+box-sizing: border-box;
+padding: 10px;
+margin-left: 40px;
+}
+.thumbnail{
+width: 230px;
+height: 230px;
+overflow: hidden;
+}
+.thumbnail img{
+width: 230px;
+height: auto;
+position: relative;
+left: 0;
+top: 0;
+}
+.thumbnail a{
+float: left;
+position: relative;
+width: 230px;
+height: 230px;
+}
+.thumbnail a span {
+display: none;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background: rgba(0,0,0,0.4);
+color: $grey-color-light;
+padding: 40px;
+text-align: center;
+}
+.thumbnail a:hover span {
+display: block;
+}
+/**
+ * Portfolio pages **********************************************************
+*/
+.blankbox{
+background: $theme-color;
+}
+.img_row{
+height: $img_height;
+width: 100%;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}
+.col{
+width: 100%;
+height: 100%;
+float: left;
+object-fit: cover;
+box-sizing:border-box;
+padding: $img_spacing;
+}
+.right{
+float: right;
+}
+.one {
+width:33.33%;
+}
+.two {
+width: 66.66%;
+}
+.three{
+width: 100%;
+}
+.caption{
+height: 100%;
+color: $caption_color;
+text-align: center;
+vertical-align: middle;
+font-size: $caption_font_size;
+}
+
+.project_list
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
