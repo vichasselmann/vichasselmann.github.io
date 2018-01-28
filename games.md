@@ -4,8 +4,6 @@ title: Games
 permalink: /games/
 ---
 
-<div class = "project_list">
-
 {% for project in site.games reversed %}
 {% if project.redirect %}
 <div class="project">
@@ -46,4 +44,3 @@ permalink: /games/
 {% endif %}
 
 {% endfor %}
-</div>

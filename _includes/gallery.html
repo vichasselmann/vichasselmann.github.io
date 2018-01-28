@@ -1,0 +1,15 @@
+<div id="gallery" style="display:none;">
+	{% for image in page.gallery %}
+		<img alt="{{ image.alt }}" src="{{ image.image_path }}"
+				data-image="{{ image.image_path }}"
+				data-description="{{ image.alt }}">
+	{% endfor %}
+</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery("#gallery").unitegallery({
+			slider_scale_mode: "fit"
+		});
+	});
+</script>
