@@ -2,7 +2,7 @@
 layout: post
 title:  "Bye 2017; Hello 2018!"
 date:   2017-12-31 13:55:15 +0000
-categories: blog update
+categories: personal
 ---
 
 So, 2017 has come to an end and with cool accomplishments. This year I have:
