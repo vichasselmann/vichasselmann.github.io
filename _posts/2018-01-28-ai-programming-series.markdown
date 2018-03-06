@@ -17,7 +17,7 @@ Almost all implementation work regarding the character decisions was done by me 
 
 # Prologue - AI in Video Games
 
-I found an interesting article about [Artificial Intelligence application](http://sitn.hms.harvard.edu/flash/2017/ai-video-games-toward-intelligent-game/){:target="_blank"} in Video Games written by Harbing Lou on Harvard Unitesity's site, so if you are not familiar with AI's concept, read it first and come back here.
+I found an interesting article about [Artificial Intelligence application](http://sitn.hms.harvard.edu/flash/2017/ai-video-games-toward-intelligent-game/){:target="_blank"} in Video Games written by Harbing Lou on Harvard University's site, so if you are not familiar with AI's concept, read it first and come back here.
 
 ## Architecture
 
