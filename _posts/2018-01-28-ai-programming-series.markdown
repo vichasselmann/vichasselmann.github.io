@@ -53,8 +53,8 @@ So before we go straight to code, let's get an overview of our system design. Th
 
 As you can see the components himself are relatively simple and it is also simple implementing them.
 
-- **Intelligence** (which works as a brain) is our main component and it holds all decisions from the AI Agent in a list. **GetHighestDecision** will return the choosen **Decision**, so our agent can behave according to the most valuable action during it's execution.
-- **Decision** contains a weight that dictates how important it is and it will executes **EvaluateScore** to calculate it's Action Score.
+- **Intelligence** (which works as a brain) is our main component and it holds all decisions from the AI Agent in a list. **GetHighestDecision** will return the choosen **Decision**, so our agent can behave according to the most valuable action during execution.
+- **Decision** contains a weight that dictates how important it is and it will executes **EvaluateScore** to calculate Action Score.
 - **Consideration Handler** works as a container for all considerations that must be taken into account by the AI Agent when making that decision.
 - **Consideration** is the basic component that contains input and parameters.
 
