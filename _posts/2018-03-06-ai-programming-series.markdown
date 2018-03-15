@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "AI Decision System in Unity"
-date:   2018-02-05 13:55:15 +0000
-categories: programming
+categories:
+  - unity
+  - programming
+  - AI
 ---
 
 ## Introduction
