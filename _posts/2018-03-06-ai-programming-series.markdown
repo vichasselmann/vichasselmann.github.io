@@ -2,14 +2,12 @@
 layout: post
 title: "AI Decision System in Unity"
 categories:
-  - unity
   - programming
-  - AI
 ---
 
 ## Introduction
 
-This post is the first of a series about build a better Artificial Intelligence Decision System in Unity. I'm not an expert in AI, but during the development of [Conflict 0: Revolution](http://www.vhasselmann.me/games/revolution){:target="_blank"} we came up with an interesting component and I would like to share what I learnt. Conflict 0: Revolution is a 2D + 3D turn based strategy combat game. It tells the story of a civil war in the country of Navaha, and the revolutionary army tries to take over the government. 
+This post is the first of a series about build a better Artificial Intelligence Decision System in Unity. I'm not an expert in AI, but during the development of [Conflict 0: Revolution](http://www.vhasselmann.me/games/revolution){:target="_blank"} we came up with an interesting component and I would like to share what I learnt. Conflict 0: Revolution is a 2D + 3D turn based strategy combat game. It tells the story of a civil war in the country of Navaha, and the revolutionary army tries to take over the government.
 
 There are different characters and classes in this game with specific characteristics in their behavior. So it was necessary to create a safe environment so that the design team could balance and create unique intelligences for each situation.
 
