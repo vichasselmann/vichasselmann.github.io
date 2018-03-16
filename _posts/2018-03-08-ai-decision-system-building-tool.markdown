@@ -5,7 +5,9 @@ categories:
   - programming
 ---
 
-Continuing the series about AI Decision System in Unity that I started on [this post](http://www.vhasselmann.me/programming/2018/03/06/ai-programming-series.html){:target="_blank"}, today we are going to start coding our system from scratch.
+Continuing the series about AI Decision System in Unity that I started on [this post](http://www.vhasselmann.me/programming/2018/03/06/ai-programming-series.html){:target="_blank"}, today we are going to start coding our system from scratch. 
+
+> In this post we will not dig deep into how Considerations and Decisions code works, this content will be available in the next post with practical examples of Gameplay.
 
 To assemble the intelligence behaviours of our game effectively, we will build a tool that will facilitate the process in the long run, and will also help to balance future changes. At this point, all we need are our tool for editing considerations and decisions for our AI Agent, so grab your coffee/tea, roll up your sleeves and get ready! :D
 
