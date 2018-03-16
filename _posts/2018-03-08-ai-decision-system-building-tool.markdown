@@ -5,7 +5,7 @@ categories:
   - programming
 ---
 
-Continuing the series about AI Decision System in Unity that I started on [this post](http://www.vhasselmann.me/programming/2018/03/06/ai-programming-series.html){:target="_blank"}, today we are going to start coding our system from scratch. 
+Continuing the series about AI Decision System in Unity that I started on [this post](http://www.vhasselmann.me/programming/2018/03/06/ai-programming-series.html){:target="_blank"}, today we will have an overview of what our tool is and how it looks.
 
 > In this post we will not dig deep into how Considerations and Decisions code works, this content will be available in the next post with practical examples of Gameplay.
 
