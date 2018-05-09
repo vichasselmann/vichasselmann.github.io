@@ -9,6 +9,10 @@ gallery:
    alt: "Conflict 0: Revolution"
  - image_path: /img/conflict/conflict2.jpg
    alt: "Conflict 0: Revolution"
+ - image_path: /img/conflict/conflict3.jpg
+   alt: "Conflict 0: Revolution"
+- image_path: /img/conflict/conflict4.jpg
+   alt: "Conflict 0: Revolution"
   
 ---
 
