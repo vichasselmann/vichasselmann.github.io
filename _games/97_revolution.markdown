@@ -7,6 +7,14 @@ img: /img/thumb/revolution.png
 gallery:
  - image_path: /img/conflict/conflict0.jpg
    alt: "Conflict 0: Revolution"
+   - image_path: /img/conflict/conflict1.jpg
+   alt: "Conflict 0: Revolution"
+   - image_path: /img/conflict/conflict2.jpg
+   alt: "Conflict 0: Revolution"
+   - image_path: /img/conflict/conflict3.jpg
+   alt: "Conflict 0: Revolution"
+   - image_path: /img/conflict/conflict4.jpg
+   alt: "Conflict 0: Revolution"
 ---
 
 [Conflict 0: Revolution](http://www.tizenstore.com/main/getDetail.as?Id=net.BlackRiverStudios.Revolution) is a 2D + 3D turn based strategy game. It tells the story of a civil war in the country of Navaha, and the revolutionary army that tries to take over the government.
