@@ -27,8 +27,11 @@ caterogies:
 }
 {% endhighlight %}
 
-# Bleh
-![Player Movement System using ECS] ({{site.baseurl}}/gif/ecs-playermovementsystem.gif)
+# Practical Sample
+
+This new ECS is pretty good to create awesome components for your game. :)
+
+![Player Movement System using ECS] (https://media.giphy.com/media/Yjv7rpgyuNTRGgs5Vg/giphy.gif)
 
 # Components.cs
 
