@@ -9,7 +9,7 @@ gallery:
    alt: "Praia Bingo"
 ---
 
-Praia Bingo is a FREE game offering a fantastic variety of options, including BINGO, SLOTS and VIDEO BINGO. Enjoy hours upon hours of fun playing online with your friends on either your cell phone or tablet. There are more than 50 Online Bingo rooms inspired by the most beautiful beaches from around the world where you can play BINGO, chat to friends and win a ton of PRIZES!
+[Praia Bingo](https://play.google.com/store/apps/details?id=air.com.pipastudios.release.praiabingo&hl=en_IE){:target="_blank"} is a FREE game offering a fantastic variety of options, including BINGO, SLOTS and VIDEO BINGO. Enjoy hours upon hours of fun playing online with your friends on either your cell phone or tablet. There are more than 50 Online Bingo rooms inspired by the most beautiful beaches from around the world where you can play BINGO, chat to friends and win a ton of PRIZES!
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/iGDPCJwwBak" frameborder="0" allowfullscreen></iframe></p>
 
