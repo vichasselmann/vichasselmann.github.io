@@ -1,8 +1,8 @@
 ---
 layout: post
 slug: hcps
-title: "The Very Hungry Caterpillar Play School"
-description: Learning app for toddlers to kindergarten-age kids developed at Touch Press.
+title: "Hungry Caterpillar Play School"
+description: Learning app for toddlers to kindergarten-age kids at Touch Press.
 img: /img/thumb/hcps.jpg
 gallery:
  - image_path: /img/hcps/hcps_01.jpg
