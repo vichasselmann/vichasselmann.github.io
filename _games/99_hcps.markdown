@@ -1,7 +1,7 @@
 ---
 layout: post
 slug: hcps
-title: "Hungry Caterpillar Play School"
+title: "Hungry Caterpillar P.S."
 description: App for toddlers to kindergarten-age kids at Touch Press.
 img: /img/thumb/hcps.jpg
 gallery:
