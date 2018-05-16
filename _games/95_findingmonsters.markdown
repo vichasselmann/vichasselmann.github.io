@@ -17,7 +17,7 @@ gallery:
    alt: "Finding Monsters"
 ---
 
-Imagine a world made entirely of fabric, buttons and gears. Tess and Jake can not only imagine this magical world they are also stuck in it! To better understand what's going on, you have to photograph this world and record these funny monsters. [Jake & Tess' Finding Monsters Adventure](http://findingmonstersadventure.com/) is a game for [**Android**](https://play.google.com/store/apps/details?id=net.blackriverstudios.findingmonstersadventure&hl=pt), [**GearVR**](https://www.oculus.com/experiences/gear-vr/1011054248914698/) and **Oculus Rift** where you have to take pictures of creatures. This game was created by the talented team of **Black River Studios**.
+Imagine a world made entirely of fabric, buttons and gears. Tess and Jake can not only imagine this magical world they are also stuck in it! To better understand what's going on, you have to photograph this world and record these funny monsters. [Jake & Tess' Finding Monsters Adventure](http://findingmonstersadventure.com/){:target="_blank"} is a game for [**Android**](https://play.google.com/store/apps/details?id=net.blackriverstudios.findingmonstersadventure&hl=pt), [**GearVR**](https://www.oculus.com/experiences/gear-vr/1011054248914698/) and **Oculus Rift** where you have to take pictures of creatures. This game was created by the talented team of **Black River Studios**.
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/STzdj04n7dc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
