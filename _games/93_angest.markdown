@@ -19,7 +19,7 @@ gallery:
 
 Immerse yourself as Valentina, a cosmonaut aboard a ship in the company of Konstantin, the AI that oversees and takes care of you while doing daily tasks for your mission. But as the days go by, your perception of reality can be affected. Will you embrace it? Break free? Or find an answer somewhere else?
 
-You can download **Angest** on the [Oculus Store for GearVR](https://www.oculus.com/experiences/gear-vr/1199148026798440/).
+You can download **Angest** on the [Oculus Store for GearVR](https://www.oculus.com/experiences/gear-vr/1199148026798440/){:target="_blank"}.
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CoJgJeJznII" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
