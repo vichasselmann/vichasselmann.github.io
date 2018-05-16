@@ -6,7 +6,7 @@ permalink: /about/
 
 # Summary
 
-My name is Victor, but people usually call me Vic. I have been developing games since 2012 and this is what I’m proud of doing. I have a large experience in the game development Brazilian industry. I'm passionate about development in special about software design and architecture and good practices.
+My name is Victor, but people usually call me Vic. I have been developing games since 2012 and this is what I’m proud of doing. I have a large experience in game development. I'm passionate about development in special about software design and architecture and good practices.
 
 I graduated myself in Tech. B. Of Game Development and System Analysis. Since then, I have successfully designed, developed and supported games. I strive for continued excellence and provide exceptional contributions to my colleagues and working team.
 
@@ -19,7 +19,7 @@ License 201705UCD2037
 
 # Specialities
 
-C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Gear VR, Mobile, Version Control
+C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mobile, Version Control
 
 ## Professional Experience
 
@@ -31,7 +31,7 @@ StoryToys is a Dublin, Ireland based developer and publisher of interactive ente
 
 Currently working as Unity Engineer developing rich books featuring interactivity, games, puzzles and other innovative features for children's learning.
 
-> Technical Environment: Unity3D, C#, Mercurial & Source Tree, Visual Studio, iOS & Android
+> Technical Environment: Unity3D, C#, Mercurial & Source Tree, Git, Visual Studio, iOS & Android
 
 # Black River Studios - Nov 2014 - Oct 2017
 
