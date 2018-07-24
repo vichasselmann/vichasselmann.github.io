@@ -6,11 +6,7 @@ permalink: /about/
 
 # Summary
 
-My name is Victor, but people usually call me Vic. I have been developing games since 2012 and this is what I’m proud of doing. I have a large experience in game development. I'm passionate about development in special about software design and architecture and good practices.
-
-I graduated myself in Tech. B. Of Game Development and System Analysis. Since then, I have successfully designed, developed and supported games. I strive for continued excellence and provide exceptional contributions to my colleagues and working team.
-
-As I am very communicative, my goal is to make everyone in the project feel that somehow, we all are part of the project, that is something which keeps me going on and on.
+Software Engineer with large experience developing games. Experience with Core/AI/Gameplay programming and tools programming. UI and Interface programming along with VR design and Sound Design/Engineering. Comfortable leading projects and multidisciplinary teams. I have a sharp eye for details, excellent ability to deal with stressful situations, supportive and enthusiastic team player dedicated to streamlining process and efficiently resolving project issues. Willing to take ownership of core components.
 
 # Unity Certified Developer
 
@@ -27,11 +23,9 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 **Unity Engineer**
 
-StoryToys is a Dublin, Ireland based developer and publisher of interactive entertainment content for Children.
+Currently working as Unity Engineer developing rich books featuring interactivity, games, puzzles and other innovative features for children's learning. I also evaluate interface between mobile/tablets hardware and software
 
-Currently working as Unity Engineer developing rich books featuring interactivity, games, puzzles and other innovative features for children's learning.
-
-> Technical Environment: Unity3D, C#, Mercurial & Source Tree, Git, Visual Studio, iOS & Android
+> Technical Environment: Unity3D, C#, Mercurial, Source Tree, Git, Visual Studio, iOS, Android
 
 # Black River Studios - Nov 2014 - Oct 2017
 
