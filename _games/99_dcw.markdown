@@ -2,7 +2,7 @@
 layout: post
 slug: dcw
 title: "Disney Coloring World"
-description: Create, color and paint hundreds of your favorite Disney characters, then bring them to life inside iconic 3D Disney locations!
+description: Color and paint and play with your favorite Disney characters!
 img: /img/thumb/dcw.jpg
 gallery:
  - image_path: /img/dcw/dcw_01.jpg
