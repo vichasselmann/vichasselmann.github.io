@@ -13,7 +13,7 @@ gallery:
    alt: "NetCartas"
 ---
 
-[Net Cartas](https://netcartas.com.br/) is a Social Platform for Online Casino and Bingo Games.
+[Net Cartas](https://netcartas.com.br/){:target="_blank"} is a Social Platform for Online Casino and Bingo Games.
 
 I was responsible to implement most of the features on client-side, using **Flash** and **Action Script 3**.
 

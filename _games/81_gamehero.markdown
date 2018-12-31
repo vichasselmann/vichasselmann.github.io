@@ -20,7 +20,7 @@ gallery:
 ---
 
 
-GameHero was a game made for an Intel's marketing campaing. With this game, **Hive Digital Media** wanted to show the evolution of the games, creating a 4-episode game, each game representing an era. This was a huge success in Brazil and other countries of the Latin America, hundreds of *youtubers* in Brazil, including some famous, recorded playing GameHero: [Leon](https://www.youtube.com/watch?v=b0J1PVCaeoc), [Monark](https://www.youtube.com/watch?v=Lp7b0rmmvAM), [Nils](https://www.youtube.com/watch?v=h3pREAnDWq0) and [VenomExtreme](https://www.youtube.com/watch?v=lhEpnCxC_kE).
+GameHero was a game made for an Intel's marketing campaing. With this game, **Hive Digital Media** wanted to show the evolution of the games, creating a 4-episode game, each game representing an era. This was a huge success in Brazil and other countries of the Latin America, hundreds of *youtubers* in Brazil, including some famous, recorded playing GameHero: [Leon](https://www.youtube.com/watch?v=b0J1PVCaeoc){:target="_blank"}, [Monark](https://www.youtube.com/watch?v=Lp7b0rmmvAM){:target="_blank"}, [Nils](https://www.youtube.com/watch?v=h3pREAnDWq0){:target="_blank"} and [VenomExtreme](https://www.youtube.com/watch?v=lhEpnCxC_kE){:target="_blank"}.
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/SadLDd4nEzE" frameborder="0" allowfullscreen></iframe></p>
 
