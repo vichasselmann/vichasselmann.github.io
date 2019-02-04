@@ -14,7 +14,7 @@ gallery:
   
 ---
 
-[Conflict 0: Revolution](http://www.tizenstore.com/main/getDetail.as?Id=net.BlackRiverStudios.Revolution){:target="_blank"} is a 2D + 3D turn based strategy game. It tells the story of a civil war in the country of Navaha, and the revolutionary army that tries to take over the government.
+[Conflict 0: Revolution](https://play.google.com/store/apps/details?id=net.blackriverstudios.revolution){:target="_blank"} is a 2D + 3D turn based strategy game. It tells the story of a civil war in the country of Navaha, and the revolutionary army that tries to take over the government.
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HHGelXFHeIA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
