@@ -14,7 +14,7 @@ I have a sharp eye for details, excellent ability to deal with stressful situati
 # Unity Certified Developer
 
 May 2017 – May 2019   
-License 201705UCD2037
+[License 201705UCD2037](https://www.youracclaim.com/badges/794e7247-9a25-4abb-9699-70dae814cea7){:target="_blank"}
 
 # Specialities
 
