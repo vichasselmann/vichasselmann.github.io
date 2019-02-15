@@ -18,7 +18,7 @@ In [Disney Coloring World iOS](https://itunes.apple.com/US/app/id1400326821?mt=8
 
 But then comes the best part… Once you’ve colored your characters and props it’s time to explore the Disney Coloring World universe. Experience your creations as they come to life inside interactive playsets. Relive your favorite movie or make up your own epic adventures. The sky’s the limit!
 
-<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gauYDfia5EQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/a4hBL_GRvnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 # Principal tasks
 - Implemented core features;
