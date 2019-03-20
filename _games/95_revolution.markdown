@@ -14,7 +14,7 @@ gallery:
   
 ---
 
-[Conflict 0: Revolution](https://play.google.com/store/apps/details?id=net.blackriverstudios.revolution){:target="_blank"} is a 2D + 3D turn based strategy game. It tells the story of a civil war in the country of Navaha, and the revolutionary army that tries to take over the government.
+Conflict 0 : Revolution [Android](https://play.google.com/store/apps/details?id=net.blackriverstudios.revolution){:target="_blank"} / [iOS](https://itunes.apple.com/us/app/conflict-0-revolution/id1447898701){:target="_blank"} is a 2D + 3D turn based strategy game. The corrupt government of Navaha shamelessly built a wall between the elite and the rest of the population - this was the final motivation necessary to start the revolution. Join forces with the Sovereigns to march into the capital and remove the corruption by its roots. Take arms, capture enemy war robots and set Navaha free!
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HHGelXFHeIA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
