@@ -22,8 +22,11 @@ But then comes the best part… Once you’ve colored your characters and props 
 
 # Principal tasks
 - Implemented core features;
+- Custom shaders/vfx for playsets;
+- Play pattern design for playsets;
 - Optimisation
 - Gameplay Programming;
 - UI/UX Programming;
 - Bug Fixing;
-- Client billing system programming;
+- Client Billing API System Integration;
+- Build management;
