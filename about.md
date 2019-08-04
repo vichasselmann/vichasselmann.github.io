@@ -6,10 +6,9 @@ permalink: /about/
 
 # Summary
 
-I'm a Software Engineer with large experience developing games who focuses on engineering as a service. I truly enjoy working on interdisciplinary teams and collaborating with artists and designers to build robust, modular systems that allow everyone to contribute to the final result. I have experience with Core and Gameplay programming, much of my experience, and interest, has been working on non-traditional platforms with unique interfaces. Some of these include VR/AR and other prototype projects.
+I'm a Italian/Brazilian Game programmer with experience developing games who focuses on engineering as a service. I truly enjoy working on interdisciplinary teams and collaborating with artists and designers to build robust, modular systems that allow everyone to contribute to the final result. I have experience with Core and Gameplay programming, much of my experience, and interest, has been working on non-traditional platforms with unique interfaces. Some of these include VR/AR and other prototype projects.
 
 I have a sharp eye for details, excellent ability to deal with stressful situations, supportive and enthusiastic team player dedicated to streamlining process and efficiently resolving project issues. Willing to take ownership of core components.
-
 
 # Unity Certified Developer
 
