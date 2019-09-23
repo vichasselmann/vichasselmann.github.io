@@ -6,9 +6,7 @@ permalink: /about/
 
 # Summary
 
-I'm a Italian/Brazilian Game programmer with experience developing games who focuses on engineering as a service. I truly enjoy working on interdisciplinary teams and collaborating with artists and designers to build robust, modular systems that allow everyone to contribute to the final result. I have experience with Core and Gameplay programming, much of my experience, and interest, has been working on non-traditional platforms with unique interfaces. Some of these include VR/AR and other prototype projects.
-
-I have a sharp eye for details, excellent ability to deal with stressful situations, supportive and enthusiastic team player dedicated to streamlining process and efficiently resolving project issues. Willing to take ownership of core components.
+Accomplished game developer, leading the end-to-end development of gameplay features in well-crafted mobile, VR/AR and casual games. Proficient knowledge in prototyping, building modular systems that allow everyone to contribute to the result and technical constraints. Exceptional analytical and communication skills. Willing to take ownership of core components and comfortably presenting solutions to both technical and business minded audiences. I have a sharp eye for details, excellent ability to deal with stressful situations, supportive and enthusiastic team player dedicated to streamlining process and efficiently resolving project issues. 
 
 # Unity Certified Developer
 
@@ -25,23 +23,22 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 **Unity Engineer**
 
-Currently working as Unity Engineer developing rich books featuring interactivity, games, puzzles and other innovative features for children's learning. I also evaluate interface between mobile/tablets hardware and software
+Hired as a Software Engineer (Game Developer) to design game-play game features in well-crafted mobile app featuring interactivity, games, puzzles and other innovative for children's learning.
 
-> Technical Environment: Unity3D, C#, Mercurial, Source Tree, Git, Visual Studio, iOS, Android
+I create pipeline tools, frameworks and editor extensions to streamline production. I interface with the leaders and directors from other areas, managing expectations, estimating tasks, providing feedback on technical possibility of implementing features and tackling the technical challenges the game being developed brings to the team. I collaborate, design and take ownership of major overhaul app maintenance to deliver experiences that resonate with customers.
 
+> Technical Environment: Unity3D, GLSL, C#, Source Tree, Git, Visual Studio, iOS, Android, Jenkins
+
+See less
 # Black River Studios - Nov 2014 - Oct 2017
 
 **Software Engineer**
 
-Responsible for game development and team management at Samsung's exclusive games studio. I left due a job offer in Dublin.
+Hired as Game Engineer to design game-play game features in well-crafted mobile VR/AR games featuring Samsung's exclusive games studio using non-traditional technologies such as GearVR.
 
-On this position I interface with the leaders and directors from other areas, managing expectations, setting estimatives, providing feedback on technical possibility of implementing features and tackling the technical challenges the game being developed brings to the team.
+On this position I was responsible to develop core game systems, gameplay mechanics and team management. I interfaced with the leaders and directors from other areas, managing expectations, evaluated tasks providing feedback on technical possibility of implementing features and tackling the technical challenges the game being developed brings to the team. Additionally, led the engineering team by aligning Game Design & Creative Director's long-term vision for the projects that I've worked on.
 
-- Developed for the following technologies: Samsung's Gear VR with Unity3D
-- Worked as Audio Programmer, doing the interface between Audio Director and Engineering Team.
-- Worked on plugins, tools and framework used by all Black River Studios teams.
-
-> Technical Environment: Unity3D, C#, Git & Perforce, Visual Studio and FMOD.
+> Technical Environment: Unity3D, C#, Git and Perforce, Visual Studio and FMOD.
 
 # Pipa Studios - Aug 2014 - Oct 2014
 
