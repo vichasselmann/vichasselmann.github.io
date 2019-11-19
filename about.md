@@ -16,6 +16,8 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 # DIGIT Game Studios - Oct 2019 - Present
 
+**Game Client Engineer**
+
 # StoryToys - Oct 2017 - Oct 2019
 
 **Unity Engineer**
