@@ -8,18 +8,15 @@ permalink: /about/
 
 Accomplished game developer, leading the end-to-end development of gameplay features in well-crafted mobile, VR/AR and casual games. Proficient knowledge in prototyping, building modular systems that allow everyone to contribute to the result and technical constraints. Exceptional analytical and communication skills. Willing to take ownership of core components and comfortably presenting solutions to both technical and business minded audiences. I have a sharp eye for details, excellent ability to deal with stressful situations, supportive and enthusiastic team player dedicated to streamlining process and efficiently resolving project issues. 
 
-# Unity Certified Developer
-
-May 2017 – May 2019   
-[License 201705UCD2037](https://www.youracclaim.com/badges/794e7247-9a25-4abb-9699-70dae814cea7){:target="_blank"}
-
 # Specialities
 
-C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mobile, Version Control
+C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mobile, Version Control, Leadership
 
 ## Professional Experience
 
-# StoryToys - Oct 2017 - Present
+# DIGIT Game Studios - Oct 2019 - Present
+
+# StoryToys - Oct 2017 - Oct 2019
 
 **Unity Engineer**
 
