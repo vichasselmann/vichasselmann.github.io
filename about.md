@@ -33,7 +33,6 @@ I create pipeline tools, frameworks and editor extensions to streamline producti
 
 > Technical Environment: Unity3D, GLSL, C#, Source Tree, Git, Visual Studio, iOS, Android, Jenkins
 
-See less
 # Black River Studios - Nov 2014 - Oct 2017
 
 **Software Engineer**
