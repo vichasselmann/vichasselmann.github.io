@@ -6,14 +6,8 @@ permalink: /about/
 
 # Summary
 
-I'm a Italian/Brazilian Game programmer with experience developing games who focuses on engineering as a service. I truly enjoy working on interdisciplinary teams and collaborating with artists and designers to build robust, modular systems that allow everyone to contribute to the final result. I have experience with Core and Gameplay programming, much of my experience, and interest, has been working on non-traditional platforms with unique interfaces. Some of these include VR/AR and other prototype projects.
+Accomplished game developer, leading the end-to-end development of gameplay game features in well-crafted mobile, VR/AR and casual games. Proficient knowledge in prototyping, building modular systems that allow everyone to contribute to the result and technical constraints. Exceptional analytical and communication skills. I have a sharp eye for details, excellent ability to deal with stressful situations, supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. 
 
-I have a sharp eye for details, excellent ability to deal with stressful situations, supportive and enthusiastic team player dedicated to streamlining process and efficiently resolving project issues. Willing to take ownership of core components.
-
-# Unity Certified Developer
-
-May 2017 – May 2019   
-[License 201705UCD2037](https://www.youracclaim.com/badges/794e7247-9a25-4abb-9699-70dae814cea7){:target="_blank"}
 
 # Specialities
 
@@ -21,7 +15,15 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 ## Professional Experience
 
-# StoryToys - Oct 2017 - Present
+# DIGIT Game Studios - Oct 2019 - Present
+
+**Game Client Engineer**
+
+Hired as a Game Client Engineer I to develop next-gen MMORTS mobile games using Unity (for multiple platforms). I work closely with designers and UX/UI to get through specs and flesh out the best way to get new ideas into the game. I implement great widgets and UI. Support the UI team on a technical level. I work with game servers team (e.g persistent game data, error handling, network connections, efficient data transfer & storage)
+
+> Technical Environment: Unity3D, GLSL, C#, Git, JetBrains Rider, iOS, Android, Python, Protobuff, JSON, Multiplayer
+
+# StoryToys - Oct 2017 - Oct 2019
 
 **Unity Engineer**
 
