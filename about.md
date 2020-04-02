@@ -19,13 +19,10 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 **Game Client Engineer**
 
-<<<<<<< HEAD
 Hired as a Game Client Engineer I to develop next-gen MMORTS mobile games using Unity (for multiple platforms). I work closely with designers and UX/UI to get through specs and flesh out the best way to get new ideas into the game. I implement great widgets and UI. Support the UI team on a technical level. I work with game servers team (e.g persistent game data, error handling, network connections, efficient data transfer & storage)
 
 > Technical Environment: Unity3D, GLSL, C#, Git, JetBrains Rider, iOS, Android, Python, Protobuff, JSON, Multiplayer
 
-=======
->>>>>>> bbd08db5ee79a7ab211f1fca2a62e86f1328387b
 # StoryToys - Oct 2017 - Oct 2019
 
 **Unity Engineer**
